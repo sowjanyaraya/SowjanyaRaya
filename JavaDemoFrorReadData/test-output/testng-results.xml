@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="10572" started-at="2019-07-27T08:44:17Z" finished-at="2019-07-27T08:44:28Z">
+  <suite name="Default suite" duration-ms="21088" started-at="2019-08-02T08:20:36Z" finished-at="2019-08-02T08:20:57Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="10572" started-at="2019-07-27T08:44:17Z" finished-at="2019-07-27T08:44:28Z">
-      <class name="ReadDataFromHTMLTable.AlertPopUpHandling">
-        <test-method status="PASS" signature="AlertPopUp()[pri:0, instance:ReadDataFromHTMLTable.AlertPopUpHandling@62ee68d8]" name="AlertPopUp" duration-ms="10477" started-at="2019-07-27T08:44:17Z" finished-at="2019-07-27T08:44:28Z">
+    <test name="Default test" duration-ms="21088" started-at="2019-08-02T08:20:36Z" finished-at="2019-08-02T08:20:57Z">
+      <class name="ReadDataFromHTMLTable.ReadDataHTML">
+        <test-method status="PASS" signature="ReadDataFromHTML()[pri:0, instance:ReadDataFromHTMLTable.ReadDataHTML@62ee68d8]" name="ReadDataFromHTML" duration-ms="21010" started-at="2019-08-02T08:20:36Z" finished-at="2019-08-02T08:20:57Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- AlertPopUp -->
-      </class> <!-- ReadDataFromHTMLTable.AlertPopUpHandling -->
+        </test-method> <!-- ReadDataFromHTML -->
+      </class> <!-- ReadDataFromHTMLTable.ReadDataHTML -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

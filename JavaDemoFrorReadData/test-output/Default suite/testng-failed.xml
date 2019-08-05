@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ReadDataFromHTMLTable.ReadDataHTML">
+      <class name="ReadDataFromHTMLTable.AlertPopUpHandling">
         <methods>
-          <include name="ReadDataFromHTML"/>
+          <include name="AlertPopUp"/>
         </methods>
-      </class> <!-- ReadDataFromHTMLTable.ReadDataHTML -->
+      </class> <!-- ReadDataFromHTMLTable.AlertPopUpHandling -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47811" started-at="2019-08-05T14:54:23Z" finished-at="2019-08-05T14:55:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47811" started-at="2019-08-05T14:54:23Z" finished-at="2019-08-05T14:55:11Z">
+      <class name="NewProjectAutomation.NewProject">
+        <test-method status="PASS" signature="newProject()[pri:0, instance:NewProjectAutomation.NewProject@62ee68d8]" name="newProject" duration-ms="47698" started-at="2019-08-05T14:54:23Z" finished-at="2019-08-05T14:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newProject -->
+      </class> <!-- NewProjectAutomation.NewProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
